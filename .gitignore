@@ -21,10 +21,11 @@ dist/
 .env
 .env.local
 
-# IDE
+# IDE & Editor files
 .vscode/
 .idea/
 *.DS_Store
+.agents/
 
 # Temporary scratch and zip files
 scratch/
